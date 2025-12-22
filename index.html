@@ -1,26 +1,42 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Sones de Hoy</title>
-    <style>
-        h1 {
-            font-size: 60px;     /* Letra grande */
-            color: black;        /* Color negro */
-            text-align: center;  /* Centrado */
-            margin-top: 40px;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        p {
-            text-align: center;
-            font-size: 20px;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-    </style>
+    <title>Sones de Hoy – Volumen 1</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>SONES DE HOY</h1>
-    <p>Proyecto musical cubano en desarrollo.</p>
+    <header>
+        <h1>SONES DE HOY</h1>
+        <p>Proyecto musical cubano en desarrollo</p>
+        <img src="PORTADA.jpg" alt="Portada del álbum" style="display:block; margin:20px auto; width:300px;">
+    </header>
+
+    <section id="canciones">
+        <h2 style="text-align:center;">Volumen 1 – Reparto Extra</h2>
+        <ul style="font-size:18px; text-align:center; list-style:none; padding:0;">
+            <li><a href="LETRAS/01_Reparto_Extra.pdf">01 – Reparto Extra</a></li>
+            <li><a href="LETRAS/02_S6.pdf">02 – S6</a></li>
+            <li><a href="LETRAS/03_Tema3.pdf">03 – Tema 3</a></li>
+            <!-- Agregar todos los demás temas -->
+        </ul>
+    </section>
+
+    <section id="previews" style="text-align:center; margin-top:20px;">
+        <h3>Escucha un fragmento</h3>
+        <audio controls src="PREVIEWS/01_Reparto_Extra_preview.mp3"></audio><br>
+        <audio controls src="PREVIEWS/02_S6_preview.mp3"></audio><br>
+        <!-- Agregar todos los previews -->
+    </section>
+
+    <section id="descarga" style="text-align:center; margin-top:20px;">
+        <h3>Descarga el álbum completo</h3>
+        <a href="DESCARGAS/sones_de_hoy_vol1.zip" style="font-size:20px;">ZIP Volumen 1 – $12 USD</a>
+        <p>Pago vía Cripto o PayPal externo</p>
+    </section>
+
+    <footer style="text-align:center; margin-top:40px;">
+        <p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
