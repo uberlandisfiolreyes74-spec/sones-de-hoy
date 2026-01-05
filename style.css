@@ -8,47 +8,53 @@ body {
     padding: 0;
 }
 
-/* Encabezado */
+/* Encabezado (Header) */
 header {
-    background: #2c3e50;
-    color: #fff;
-    padding: 2rem text-align: center;
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 2rem 1rem;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
     font-size: 2.5rem;
-    color: #f1c40f; /* Color dorado para el título */
+    color: #f1c40f; /* Color dorado para resaltar */
 }
 
+header p {
+    font-style: italic;
+    opacity: 0.9;
+}
+
+/* Imagen de Portada */
 .portada {
-    width: 250px;
+    max-width: 300px;
     height: auto;
-    border-radius: 10px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    border-radius: 8px;
     margin-top: 1rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
 }
 
-/* Contenedor Principal */
+/* Contenido Principal */
 main {
     max-width: 800px;
     margin: 2rem auto;
-    padding: 0 1rem;
-}
-
-section {
     background: #fff;
-    margin-bottom: 2rem;
-    padding: 1.5rem;
+    padding: 2rem;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+/* Secciones */
+section {
+    margin-bottom: 3rem;
+}
+
 h2 {
-    border-bottom: 2px solid #2c3e50;
+    border-bottom: 2px solid #1a1a1a;
     padding-bottom: 0.5rem;
-    color: #2c3e50;
+    color: #1a1a1a;
 }
 
 /* Listas de canciones */
@@ -58,34 +64,31 @@ ul {
 }
 
 li {
-    padding: 0.8rem 0;
-    border-bottom: 1px solid #eee;
+    background: #f9f9f9;
+    margin: 0.5rem 0;
+    padding: 0.8rem;
+    border-radius: 4px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 li a {
     text-decoration: none;
-    color: #e67e22;
+    color: #2980b9;
     font-weight: bold;
 }
 
 li a:hover {
-    text-decoration: underline;
-}
-
-/* Reproductor de Audio */
-audio {
-    width: 100%;
-    margin-top: 1rem;
+    color: #1a1a1a;
 }
 
 /* Botón de Descarga */
-.boton {
+.botón {
     display: inline-block;
-    background: #27ae60;
-    color: #fff;
-    padding: 1rem 2rem;
+    background-color: #27ae60;
+    color: white;
+    padding: 1rem 1.5rem;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
@@ -93,15 +96,32 @@ audio {
     transition: background 0.3s;
 }
 
-.boton:hover {
-    background: #219150;
+.botón:hover {
+    background-color: #2ecc71;
 }
 
-/* Pie de página */
+/* Audio Player */
+audio {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+/* Pie de página (Footer) */
 footer {
     text-align: center;
     padding: 2rem;
-    background: #2c3e50;
-    color: #fff;
-    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Ajustes para Celulares */
+@media (max-width: 600px) {
+    main {
+        margin: 1rem;
+        padding: 1rem;
+    }
+    
+    header h1 {
+        font-size: 1.8rem;
+    }
 }
