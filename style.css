@@ -1,93 +1,107 @@
-/* Estilos generales */
+/* Configuración General */
 body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
-    color: #111;
 }
 
 /* Encabezado */
 header {
+    background: #2c3e50;
+    color: #fff;
+    padding: 2rem text-align: center;
     text-align: center;
-    padding: 40px 20px;
-    background: #ffffff;
 }
 
-h1 {
-    font-size: 64px;
-    margin-bottom: 10px;
-    letter-spacing: 2px;
-}
-
-h2 {
-    text-align: center;
-    margin-top: 40px;
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #f1c40f; /* Color dorado para el título */
 }
 
 .portada {
-    display: block;
-    margin: 20px auto;
-    width: 300px;
-    max-width: 90%;
-    border-radius: 6px;
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    margin-top: 1rem;
 }
 
-/* Secciones */
-section {
-    background: #ffffff;
-    margin: 30px auto;
-    padding: 20px;
+/* Contenedor Principal */
+main {
     max-width: 800px;
-    border-radius: 6px;
+    margin: 2rem auto;
+    padding: 0 1rem;
 }
 
+section {
+    background: #fff;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 0.5rem;
+    color: #2c3e50;
+}
+
+/* Listas de canciones */
 ul {
     list-style: none;
     padding: 0;
-    text-align: center;
 }
 
-ul li {
-    margin: 10px 0;
+li {
+    padding: 0.8rem 0;
+    border-bottom: 1px solid #eee;
+    display: flex;
+    justify-content: space-between;
 }
 
-ul li a {
+li a {
     text-decoration: none;
-    color: #000;
+    color: #e67e22;
     font-weight: bold;
 }
 
-ul li a:hover {
+li a:hover {
     text-decoration: underline;
 }
 
-/* Audio */
+/* Reproductor de Audio */
 audio {
     width: 100%;
-    margin-top: 15px;
+    margin-top: 1rem;
 }
 
-/* Botón de descarga */
+/* Botón de Descarga */
 .boton {
     display: inline-block;
-    margin-top: 15px;
-    padding: 12px 20px;
-    background: #000;
+    background: #27ae60;
     color: #fff;
+    padding: 1rem 2rem;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 5px;
     font-weight: bold;
+    margin-top: 1rem;
+    transition: background 0.3s;
 }
 
 .boton:hover {
-    background: #333;
+    background: #219150;
 }
 
 /* Pie de página */
 footer {
     text-align: center;
-    padding: 30px 10px;
-    font-size: 14px;
-    color: #666;
+    padding: 2rem;
+    background: #2c3e50;
+    color: #fff;
+    margin-top: 2rem;
 }
