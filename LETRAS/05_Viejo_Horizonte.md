@@ -1,34 +1,26 @@
-# Viejo Horizonte
-
-**ID:** SOH-105  
-**Género:** Son Tradicional  
-**Tema:** Emigración, familia, esperanza  
-**Duración:** 5:00  
-
-## Letra
-
-Verso 1  
-Se fue mi hermano temprano  
-con la sombra del dolor,  
-la maleta casi vacía  
-pero el alma con valor.  
-
-Coro  
-Viejo horizonte,  
-abre caminos nuevos,  
-que el que se marcha  
-siga siendo nuestro.  
-
-Verso 2  
-La distancia no borra  
-el mapa que nos une,  
-y aunque lejos se encuentre,  
-el corazón siempre lo contiene.  
-
-Montuno  
-Ay, horizonte viejo,  
-dile que aquí lo espero.  
-
----
-
-© 2025 Uberlandis Fiol Reyes
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Viejo Horizonte – Sones de Hoy Volumen 1</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<header>
+    <h1>SONES DE HOY – Volumen 1</h1>
+    <h2>05 – Viejo Horizonte</h2>
+</header>
+<main>
+    <section>
+        <p><!-- Letra completa de "Viejo Horizonte" --> 
+        (Ejemplo: "Se fue mi hermano temprano, con la sombra del dolor...")</p>
+    </section>
+    <section>
+        <a class="boton" href="../index.html">Volver al Álbum</a>
+    </section>
+</main>
+<footer>
+    <p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
+</body>
+</html>
