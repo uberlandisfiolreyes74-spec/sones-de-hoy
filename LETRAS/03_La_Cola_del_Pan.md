@@ -1,57 +1,63 @@
-# 03 – La Cola del Pan
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>La Cola del Pan – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**Artista:** Sones de Hoy  
-**Volumen:** 1 – Reparto Extra  
-**Género:** Son / Salsa / Fusión cubana  
-**Duración estimada:** 3:45  
-**Disponible en:** Streaming y descarga digital (MP3 / FLAC)  
+<body>
 
----
+<header>
+    <h1>La Cola del Pan</h1>
+    <p>Sones de Hoy · Volumen 1</p>
+</header>
 
-## Letra Oficial
+<section>
+<p>
+En la esquina del barrio siempre hay<br>
+un café que huele a historias viejas,<br>
+la gente conversa y la vida pasa,<br>
+se mezclan risas, penas y quejas.
+</p>
 
-**Verso 1**  
-Hoy me levanto temprano, voy caminando  
-Entre la gente en la calle, todos esperando  
-Una fila larga que no tiene final  
-Pero en el corazón, seguimos a luchar  
+<p>
+Los niños corren jugando al balón,<br>
+el sol se esconde tras los edificios,<br>
+y mientras espero mi turno en la cola,<br>
+siento los latidos del sacrificio.
+</p>
 
-**Coro**  
-La cola del pan, nos enseña a esperar  
-Con paciencia y esperanza, vamos a continuar  
-Aunque el sol queme y el tiempo se haga pesar  
-La cola del pan, nos invita a soñar  
+<p><strong>Coro:</strong><br>
+La cola del pan, la espera es canción,<br>
+cada rostro un sueño, cada paso una lección.<br>
+Entre charlas y miradas se teje el corazón,<br>
+y en cada esquina se escucha la razón.
+</p>
 
-**Verso 2**  
-Conversando con el vecino, historias de ayer  
-Cada sonrisa se vuelve un motivo para creer  
-Que aunque la vida pese y nos quiera cansar  
-Siempre habrá un camino para avanzar  
+<p>
+El tiempo no se detiene, sigue su andar,<br>
+pero la esperanza nunca se va,<br>
+porque cada día que empieza en la cola<br>
+trae un pedazo de vida y de paz.
+</p>
 
-**Coro**  
-La cola del pan, nos enseña a esperar  
-Con paciencia y esperanza, vamos a continuar  
-Aunque el sol queme y el tiempo se haga pesar  
-La cola del pan, nos invita a soñar  
+</section>
 
-**Puente**  
-Y aunque a veces la fila parezca no acabar  
-La música nos levanta, nos hace vibrar  
-Entre ritmos y sones, la alegría está  
-En la cola del pan, juntos vamos a cantar  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Precio: $12 USD</p>
+<p>Disponible en ZIP – Pago vía PayPal o criptomonedas</p>
+</section>
 
-**Coro / Final**  
-La cola del pan, nos enseña a esperar  
-Con paciencia y esperanza, vamos a continuar  
-Aunque el sol queme y el tiempo se haga pesar  
-La cola del pan, nos invita a soñar  
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+    <p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-### Detalles Comerciales
-
-- **Precio de descarga completa del álbum Volumen 1:** $12 USD  
-- **Formas de pago:** PayPal, Criptomonedas  
-- **Versión Demo / Fragmento:** 1:30 disponible en streaming  
-- **Uso promocional:** Licencia para reproducción en redes sociales y plataformas de streaming  
-- **Notas del productor:** Mezcla de son tradicional con ritmos urbanos para conectar con la juventud cubana y global
+</body>
+</html>
