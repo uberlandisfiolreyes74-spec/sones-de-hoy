@@ -1,15 +1,18 @@
+/* Estilos generales */
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f4f4;
     color: #111;
+    line-height: 1.6;
 }
 
+/* Encabezado */
 header {
     text-align: center;
     padding: 40px 20px;
-    background: #ffffff;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -18,27 +21,39 @@ h1 {
     letter-spacing: 2px;
 }
 
-h2, h3 {
-    text-align: center;
-    margin-top: 40px;
+header p {
+    font-size: 20px;
+    margin-top: 5px;
+    color: #555;
 }
 
+/* Imagen de portada */
 .portada {
     display: block;
     margin: 20px auto;
     width: 300px;
     max-width: 90%;
-    border-radius: 6px;
+    border-radius: 8px;
 }
 
+/* Secciones */
 section {
     background: #ffffff;
     margin: 30px auto;
     padding: 20px;
-    max-width: 800px;
-    border-radius: 6px;
+    max-width: 900px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
+/* Títulos de secciones */
+h2, h3 {
+    text-align: center;
+    margin-top: 20px;
+    color: #222;
+}
+
+/* Listas de canciones */
 ul {
     list-style: none;
     padding: 0;
@@ -53,35 +68,63 @@ ul li a {
     text-decoration: none;
     color: #000;
     font-weight: bold;
+    transition: color 0.3s, text-decoration 0.3s;
 }
 
 ul li a:hover {
     text-decoration: underline;
+    color: #007BFF;
 }
 
+/* Reproductor de audio */
 audio {
     width: 100%;
     margin-top: 15px;
+    outline: none;
 }
 
+/* Botón de descarga */
 .boton {
     display: inline-block;
     margin-top: 15px;
-    padding: 12px 20px;
-    background: #000;
+    padding: 12px 25px;
+    background-color: #000;
     color: #fff;
     text-decoration: none;
-    border-radius: 4px;
+    border-radius: 6px;
     font-weight: bold;
+    transition: background-color 0.3s;
 }
 
 .boton:hover {
-    background: #333;
+    background-color: #333;
 }
 
+/* Pie de página */
 footer {
     text-align: center;
-    padding: 30px 10px;
+    padding: 25px 10px;
     font-size: 14px;
     color: #666;
+    background-color: #fff;
+    margin-top: 40px;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 48px;
+    }
+
+    h2, h3 {
+        font-size: 22px;
+    }
+
+    .portada {
+        width: 80%;
+    }
+
+    .boton {
+        padding: 10px 20px;
+    }
 }
