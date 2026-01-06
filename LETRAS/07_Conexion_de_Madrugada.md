@@ -1,62 +1,76 @@
-# Conexión de Madrugada
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Conexión de Madrugada – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-107  
-**Género:** Son Urbano / Fusión Digital  
-**Tema:** Internet, vida moderna, aislamiento y esperanza  
-**Duración:** 4:10  
-**BPM:** 85  
-**Tonalidad:** Mi menor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Verso 3 - Montuno - Cierre  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Conexión de Madrugada</h1>
+    <p>Sones de Hoy · Volumen 1</p>
+</header>
 
-### Verso 1
-A las dos de la mañana  
-la señal quiso volver,  
-como un suspiro en la sombra  
-que me invita a responder.
+<section>
+<p>
+Entre faroles y calles dormidas,<br>
+se oyen susurros de voces conocidas,<br>
+una guitarra que marca el ritmo,<br>
+y los pasos que buscan su destino.
+</p>
 
-### Verso 2
-Un mensaje que no llega,  
-otro intento que falló,  
-pero en Cuba cada clic  
-tiene un pedazo de amor.
+<p>
+La luna vigila los secretos,<br>
+los sueños despiertan en silencio,<br>
+cada mirada es un mensaje,<br>
+cada nota, un latido intenso.
+</p>
 
-### Coro
-Conexión de madrugada,  
-vida en modo avión.  
-Yo persigo la esperanza  
-con un hilo de conexión.
+<p><strong>Coro:</strong><br>
+Conexión de madrugada, bajo estrellas mil,<br>
+historias que se cruzan y nos hacen sentir,<br>
+aunque la noche sea larga y fría,<br>
+la música nos une todavía.
+</p>
 
-### Verso 3
-Si me bloquea la noche  
-y el wifi no quiere andar,  
-igual escribo mis sueños  
-pa' que el mundo oiga mi mar.
+<p>
+Caminos que se cruzan sin aviso,<br>
+risas que iluminan la avenida,<br>
+el tiempo parece detenerse,<br>
+cuando la ciudad se llena de vida.
+</p>
 
-### Montuno
-Conéctate, vida,  
-que ya prendió el sol.  
-Aunque venga lento,  
-viene con valor.
+<p><strong>Puente:</strong><br>
+El reloj no importa aquí,<br>
+la madrugada nos permite soñar,<br>
+inventamos momentos sin fin,<br>
+y en cada nota nos volvemos a encontrar.
+</p>
 
-### Cierre
-Madrugada eterna…  
-y un corazón en línea.
+<p><strong>Montuno:</strong><br>
+— ¿Quién escucha esta canción?<br>
+— Los que aman la vida y la pasión,<br>
+— ¿Y si todo termina?<br>
+— Seguiremos conectados hasta el amanecer.
+</p>
+</section>
 
----
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-## Información Comercial
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Muy Alto (tema contemporáneo)  
-**Mercado Objetivo:** Jóvenes, artistas digitales, proyectos de tecnología  
-**Precio Licencia Básica:** $400 USD  
-**Regalías Sugeridas:** 4-6% por uso  
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-**Palabras Clave:** #Tecnología #Internet #Juventud #FusiónDigital #SonUrbano
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
