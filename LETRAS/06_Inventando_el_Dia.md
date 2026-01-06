@@ -1,78 +1,76 @@
-# Inventando el Día
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inventando el Día – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-106  
-**Género:** Guaracha moderna  
-**Tema:** Sobrevivir, resolver, alegría en crisis  
-**Duración:** 4:10  
-**BPM:** 110  
-**Tonalidad:** Fa Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Verso 3 - Montuno - Cierre  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Inventando el Día</h1>
+    <p>Sones de Hoy · Volumen 1</p>
+</header>
 
-### Verso 1
-Me levanto temprano  
-con el sol medio dormido,  
-y reviso mi destino  
-con un ánimo encendido.  
-Si la vida pide inventos,  
-yo le invento la razón,  
-que el cubano siempre encuentra  
-cómo salvar la situación.
+<section>
+<p>
+El sol se levanta despacio,<br>
+sobre tejados y aceras mojadas,<br>
+y cada paso que damos hoy,<br>
+es un intento de crear nuevas jornadas.
+</p>
 
-### Verso 2
-Entre colas y recargas  
-va avanzando la mañana,  
-el humor es la herramienta  
-que en la isla nunca falta.  
-Un vecino da un consejo,  
-otro presta una ilusión,  
-y el que menos tú imaginas  
-te resuelve un corazón.
+<p>
+La ciudad respira en sus esquinas,<br>
+los niños sueñan sin mirar atrás,<br>
+cada momento guarda esperanza,<br>
+y los recuerdos nos hacen avanzar.
+</p>
 
-### Coro
-Inventando el día voy,  
-paso a paso, como soy.  
-Aunque el viento sople en contra,  
-yo lo canto en clave 2–3 hoy.  
-Inventando el día voy,  
-mi guaracha y mi tambor.  
-Si me falta alguna cosa,  
-la completo con amor.
+<p><strong>Coro:</strong><br>
+Inventando el día, con cada canción,<br>
+dibujo futuros en cada corazón,<br>
+aunque la noche nos quiera atrapar,<br>
+la luz del amanecer nos vuelve a guiar.
+</p>
 
-### Verso 3
-Si el transporte se complica  
-y la calle está fatal,  
-pongo ritmo en la cintura  
-y el camino es tropical.  
-Porque al final de la tarde  
-la alegría va a llegar,  
-y en la noche con la gente  
-siempre hay algo pa' cantar.
+<p>
+Caminos cruzados y miradas sinceras,<br>
+historias que se tejen sin plan,<br>
+los sueños son faros en la bruma,<br>
+que nos enseñan a continuar.
+</p>
 
-### Montuno
-Inventando el día,  
-así vive el son.  
-Con poco se hace mucho  
-cuando manda el corazón.
+<p><strong>Puente:</strong><br>
+Aunque el mundo gire veloz,<br>
+y los días se pierdan en la rutina,<br>
+inventamos un día mejor,<br>
+y en nuestra música la esperanza germina.
+</p>
 
-### Cierre
-Inventando el día…  
-la vida se hace canción.
+<p><strong>Montuno:</strong><br>
+— ¿Qué harás con la mañana?<br>
+— Crear canciones que despierten el alma,<br>
+— ¿Y si todo se desvanece?<br>
+— Seguiremos inventando el día, sin pausa ni calma.
+</p>
+</section>
 
----
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-## Información Comercial
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Alto (mensaje positivo)  
-**Mercado Objetivo:** Proyectos de desarrollo personal, motivacionales  
-**Precio Licencia Básica:** $425 USD  
-**Regalías Sugeridas:** 3-5% por uso  
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-**Palabras Clave:** #Resiliencia #Creatividad #Alegría #Guaracha #Optimismo
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
