@@ -1,61 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Cuba Sigue en Mi Tambor – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-# Cuba Sigue en Mi Tambor
+<header>
+    <h1>Cuba Sigue en Mi Tambor</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-**ID:** SOH-208  
-**Género:** Son cubano tradicional / Afro-cubano  
-**Tema:** Identidad, orgullo, resistencia cultural  
-**Duración:** 4:45  
-**BPM:** 98  
-**Tonalidad:** Re menor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<section>
+<p>
+El tambor resuena en la plaza,<br>
+la memoria canta y abraza,<br>
+Cuba vive en cada golpe,<br>
+y la tradición nos envuelve como un sol.
+</p>
 
-## Letra Completa
+<p>
+Ritmos que cruzan generaciones,<br>
+cuerdas, palmas y canciones,<br>
+el corazón guarda la historia,<br>
+y la música mantiene la gloria.
+</p>
 
-### Verso 1
-Suena el tambor en la esquina,  
-marca el pulso de la ciudad,  
-cada golpe es una historia  
-que no se puede olvidar.  
+<p><strong>Coro:</strong><br>
+Cuba sigue en mi tambor,<br>
+latido fuerte y vibrador,<br>
+aunque el tiempo pase y cambie,<br>
+mi isla siempre tendrá color.
+</p>
 
-### Verso 2
-La calle huele a esperanza,  
-el sol calienta mi corazón,  
-y aunque vengan tiempos difíciles,  
-Cuba sigue en cada canción.  
+<p><strong>Puente:</strong><br>
+Que nadie borre la memoria,<br>
+ni silencie nuestro tambor,<br>
+porque en cada calle y en cada historia,<br>
+late Cuba con honor.
+</p>
+</section>
 
-### Coro
-Cuba sigue en mi tambor,  
-en la palma de mi mano.  
-Cuba sigue en mi tambor,  
-con su ritmo soberano.  
-Cuba sigue en mi tambor,  
-aunque el mundo cambie hoy,  
-Cuba vive en el tambor  
-y en mi voz.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Montuno
-**Solista:** Oye el sonido, hermano,  
-**Coro:** Es nuestra raíz, nuestro amor.  
-**Solista:** Que no se apague la música,  
-**Coro:** Que el tambor lleve el son.  
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-### Cierre
-Cuba sigue en mi tambor,  
-y en mi alma siempre sonará.  
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
----
-
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐⭐ (5/5)  
-**Potencial Viral:** Muy alto (patriotismo y ritmo contagioso)  
-**Mercado Objetivo:** Eventos culturales, festivales, colectivos cubanos  
-**Precio Licencia Básica:** $500 USD  
-**Regalías Sugeridas:** 4-6% por uso  
-
-**Palabras Clave:** #SonCubano #AfroCubano #Identidad #Tambor #OrgulloCubano
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
