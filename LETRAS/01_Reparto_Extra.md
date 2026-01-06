@@ -1,59 +1,70 @@
-# Reparto Extra
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Reparto Extra – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-101  
-**Género:** Son Cubano / Rítmico  
-**Tema:** Vida cotidiana, comunidad, colaboración  
-**Duración:** 4:20  
-**BPM:** 95  
-**Tonalidad:** Do Mayor  
-**Estructura:** Intro - Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Reparto Extra</h1>
+    <p>Sones de Hoy · Volumen 1</p>
+</header>
 
-### Intro
-Instrumental con tres cubano, bongó y claves marcando el ritmo base.  
+<section>
+<p>
+En la esquina del barrio suena el son,<br>
+los tambores despiertan la emoción,<br>
+cada esquina guarda una historia,<br>
+cada paso canta nuestra memoria.
+</p>
 
-### Verso 1
-En la esquina del barrio  
-todos saben tu nombre,  
-la vecina con su sonrisa  
-y el amigo que responde.  
+<p>
+La banda toca fuerte, nadie se detiene,<br>
+la calle se llena de alegría que viene,<br>
+los jóvenes bailan bajo la luna,<br>
+y los viejos recuerdan la cuna.
+</p>
 
-### Verso 2
-Se reparten las historias,  
-se comparten los sueños,  
-en cada puerta abierta  
-la vida tiene empeño.  
+<p><strong>Coro:</strong><br>
+Reparto extra, ritmo que no espera,<br>
+la música vibra en cada acera,<br>
+suenan trompetas, tumbadoras y cantos,<br>
+Sones de Hoy, llevando encanto.
+</p>
 
-### Coro
-¡Reparto extra, vamos a bailar!  
-Que el son nos une sin parar.  
-Reparto extra, alegría sin final,  
-la comunidad siempre va a ganar.  
+<p>
+Las voces se cruzan, el corazón se agita,<br>
+la ciudad se convierte en pista infinita,<br>
+cada acorde despierta los recuerdos,<br>
+cada tambor late entre los senderos.
+</p>
 
-### Montuno
-**Solista:** ¿Quién quiere cantar?  
-**Coro:** ¡Todos juntos!  
-**Solista:** ¿Quién va a bailar?  
-**Coro:** ¡Hasta el amanecer!  
+<p><strong>Puente:</strong><br>
+Bajo el sol y bajo la lluvia,<br>
+la música nunca se encierra,<br>
+el barrio entero la siente,<br>
+es nuestra fuerza y bandera.
+</p>
 
-### Cierre
-El barrio despierta,  
-y el son nunca se pierde.  
+</section>
 
----
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-## Información Comercial
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Alto (tema de unión y comunidad)  
-**Mercado Objetivo:** Festivales barriales, videos virales, eventos de música cubana  
-**Precio Licencia Básica:** $450 USD  
-**Regalías Sugeridas:** 3-5% por uso  
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-**Palabras Clave:** #SonCubano #Barrio #Comunidad #RitmoCubano #RepartoExtra
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
