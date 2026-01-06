@@ -1,56 +1,61 @@
-# Son del Porvenir
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Son del Porvenir – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-209  
-**Género:** Son cubano / Fusión moderna  
-**Tema:** Futuro, esperanza, juventud  
-**Duración:** 4:30  
-**BPM:** 100  
-**Tonalidad:** Sol Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<header>
+    <h1>Son del Porvenir</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+El son que suena en la mañana,<br>
+trae promesas y esperanza temprana,<br>
+cada nota dibuja el camino,<br>
+y la alegría marca el destino.
+</p>
 
-### Verso 1
-El sol se levanta en la plaza,  
-los niños bailan sin parar,  
-las calles llenas de risas  
-nos invitan a soñar.  
+<p>
+Bailes que unen corazones,<br>
+gente que comparte emociones,<br>
+y aunque el tiempo insista en marchar,<br>
+el son del porvenir nos hace soñar.
+</p>
 
-### Verso 2
-El joven toma su guitarra,  
-y en el barrio empieza a tocar,  
-un son que une a la gente  
-y la hace vibrar.  
+<p><strong>Coro:</strong><br>
+Son del porvenir,<br>
+ritmo y tradición,<br>
+el futuro baila con nosotros,<br>
+y la música es pasión.
+</p>
 
-### Coro
-Son del porvenir, vamos a cantar,  
-que la vida nos invita a soñar.  
-Son del porvenir, no vamos a parar,  
-que el ritmo cubano nos hará volar.  
+<p><strong>Puente:</strong><br>
+Que el tambor no se detenga,<br>
+que la melodía siga viva,<br>
+porque cada día nos enseña,<br>
+que el son del porvenir nos motiva.
+</p>
+</section>
 
-### Montuno
-**Solista:** Siente el son, que es nuestra guía,  
-**Coro:** Siente el son, que nos hace libres.  
-**Solista:** Que la música sea tu alegría,  
-**Coro:** Que el tambor marque el porvenir.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Cierre
-Son del porvenir,  
-y en cada paso va nuestro corazón.  
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐⭐ (5/5)  
-**Potencial Viral:** Muy alto (juvenil, optimista, contagioso)  
-**Mercado Objetivo:** Jóvenes, festivales, proyectos educativos y culturales  
-**Precio Licencia Básica:** $500 USD  
-**Regalías Sugeridas:** 4-6% por uso  
-
-**Palabras Clave:** #SonCubano #FusiónModerna #Juventud #Esperanza #Cuba
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
