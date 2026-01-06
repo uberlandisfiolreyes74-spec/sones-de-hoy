@@ -1,62 +1,61 @@
-# El Precio del Sol
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>El Precio del Sol – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-203  
-**Género:** Salsa Romántica Social  
-**Tema:** Costo de vida, amor en tiempos difíciles  
-**Duración:** 5:00  
-**BPM:** 80  
-**Tonalidad:** Re menor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Verso 3 - Montuno - Cierre  
+<header>
+    <h1>El Precio del Sol</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+El precio del sol se paga en sudor,<br>
+en cada esquina, en cada amor,<br>
+la ciudad despierta entre sueños y luz,<br>
+y cada paso escribe su propia cruz.
+</p>
 
-### Verso 1
-Dicen que el sol es gratis,  
-pero cuesta despertar,  
-cuando la vida te cobra  
-lo que no puedes pagar.
+<p>
+Historias de calle, historias de barrio,<br>
+risas que resuenan en cada escenario,<br>
+un abrazo, un verso, una canción,<br>
+la vida que late en el corazón.
+</p>
 
-### Verso 2
-Traigo en el alma un anhelo  
-que no quiero negociar,  
-mi futuro, mis amores,  
-todo quiere libertad.
+<p><strong>Coro:</strong><br>
+El precio del sol,<br>
+lo pagamos al caminar,<br>
+pero vale la pena vivirlo,<br>
+y en la memoria siempre quedará.
+</p>
 
-### Coro
-El precio del sol, cariño,  
-lo pago con emoción.  
-Pero no vendo mis sueños,  
-mis sueños son mi razón.
+<p><strong>Puente:</strong><br>
+Aunque la sombra caiga sobre la calle,<br>
+el alma se eleva y nunca se falle,<br>
+y en cada ventana que el día ilumina,<br>
+la esperanza brilla y nos domina.
+</p>
+</section>
 
-### Verso 3
-Y aunque el camino se aprieta,  
-yo te invito a caminar,  
-que dos almas decididas  
-todo pueden remontar.
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Montuno
-El sol está caro,  
-pero tu luz no.  
-Tú eres mi fuerza,  
-mi revolución.
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-### Cierre
-El precio del sol…  
-no alcanza pa' apagar mi voz.
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
----
-
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Medio-Alto (romance social)  
-**Mercado Objetivo:** Radio, agrupaciones de salsa romántica, plataformas digitales  
-**Precio Licencia Básica:** $450 USD  
-**Regalías Sugeridas:** 3-5% por uso  
-
-**Palabras Clave:** #SalsaRomántica #CostoDeVida #AmorCubano #SonSocial #Esperanza
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
