@@ -1,78 +1,69 @@
-# Calle 23 Sin Luz
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Calle 23 Sin Luz – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-202  
-**Género:** Salsa Rítmica  
-**Tema:** Apagones, humor, resistencia cotidiana  
-**Duración:** 4:45  
-**BPM:** 100  
-**Tonalidad:** Fa Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Verso 3 - Montuno - Cierre  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Calle 23 Sin Luz</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-### Verso 1
-En la calle veintitrés  
-se apagó la madrugada,  
-y la gente abrió ventanas  
-para ver si regresaba.  
-Ni la radio se salvó,  
-ni la música del bar,  
-pero el barrio hizo una fiesta  
-bajo el cielo tropical.
+<section>
+<p>
+Calle 23 sin luz, la ciudad duerme,<br>
+sombras que se arrastran, la noche no miente,<br>
+puertas cerradas, ventanas apagadas,<br>
+pero en el corazón la música no se acaba.
+</p>
 
-### Verso 2
-Una vela, un dominó,  
-una vecina que improvisa,  
-un pregón desde la esquina  
-y un humor que cicatriza.  
-Si la noche se hace larga  
-y el calor quiere vencer,  
-pon la rumba de tu alma  
-que no hay luz, pero hay poder.
+<p>
+El viento trae risas de otra esquina,<br>
+el eco de pasos que nadie adivina,<br>
+historias de amores y de canciones,<br>
+de lágrimas guardadas y viejas pasiones.
+</p>
 
-### Coro
-Ay, Calle 23 sin luz,  
-pero encendida en corazón.  
-Cuando la sombra quiere entrar,  
-se prende el barrio en son.  
-Ay, Calle 23 sin luz,  
-pero sin perder la fe.  
-Si la corriente no regresa,  
-baila conmigo otra vez.
+<p><strong>Coro:</strong><br>
+Calle 23 sin luz,<br>
+pero hay vida en cada rincón,<br>
+donde los sueños cruzan sin prisa,<br>
+y la esperanza se siente en el corazón.
+</p>
 
-### Verso 3
-Se escuchó un grito lejano:  
-"¡volvió la electricidad!"  
-pero el barrio estaba en rumba  
-y nadie quiso parar.  
-Porque a veces la penumbra  
-enseña a iluminar,  
-y en el ritmo de la gente  
-la esperanza siempre está.
+<p><strong>Puente:</strong><br>
+Aunque la noche sea larga y oscura,<br>
+la memoria mantiene viva la locura,<br>
+y en cada farol que no se encendió,<br>
+la melodía de Cuba brilló.
+</p>
 
-### Montuno
-Sin luz, pero con tumbao',  
-23 se ha levantao'.  
-Si falla la corriente,  
-baila la misma gente.
+<p><strong>Montuno:</strong><br>
+— ¿Quién canta cuando nadie ve?<br>
+— El que guarda en el alma la fe,<br>
+— ¿Y la ciudad?<br>
+— Sigue dormida, pero sueña también.
+</p>
+</section>
 
-### Cierre
-Calle 23 alumbrada…  
-por su propio corazón.
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
----
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-## Información Comercial
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-**Valoración:** ⭐⭐⭐⭐⭐ (5/5)  
-**Potencial Viral:** Muy Alto (humor + ritmo)  
-**Mercado Objetivo:** Fiestas, eventos comunitarios, videos virales  
-**Precio Licencia Básica:** $475 USD  
-**Regalías Sugeridas:** 4-6% por uso  
-
-**Palabras Clave:** #Apagones #Humor #Salsa #Resistencia #Calle23
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
