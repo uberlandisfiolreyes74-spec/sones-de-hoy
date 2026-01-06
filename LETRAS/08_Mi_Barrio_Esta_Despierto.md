@@ -1,62 +1,77 @@
-# Mi Barrio Está Despierto
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Barrio Está Despierto – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-108  
-**Género:** Son / Timba Suave  
-**Tema:** Comunidad, resistencia, unión  
-**Duración:** 4:30  
-**BPM:** 92  
-**Tonalidad:** Sol Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Verso 3 - Montuno - Cierre  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Mi Barrio Está Despierto</h1>
+    <p>Sones de Hoy · Volumen 1</p>
+</header>
 
-### Verso 1
-En mi barrio nadie duerme,  
-siempre hay historias que oír,  
-del que lucha por su casa  
-y del que quiere salir.
+<section>
+<p>
+Calles que viven desde temprano,<br>
+niños jugando con sueños en las manos,<br>
+el aroma del pan recién hecho,<br>
+y un tambor que marca el hecho.
+</p>
 
-### Verso 2
-Pero juntos nos cuidamos,  
-somos llama y somos voz,  
-y aunque el mundo se derrumbe,  
-nadie pierde su valor.
+<p>
+Vecinos saludando con alegría,<br>
+el sol ilumina cada esquina fría,<br>
+cada puerta tiene una historia,<br>
+cada ventana guarda la memoria.
+</p>
 
-### Coro
-Mi barrio está despierto,  
-mi gente va directo.  
-El ritmo nos sostiene  
-con paso firme y cierto.
+<p><strong>Coro:</strong><br>
+Mi barrio está despierto y cantando,<br>
+sus corazones latiendo y soñando,<br>
+aunque el mundo trate de apagar la luz,<br>
+aquí seguimos con nuestra virtud.
+</p>
 
-### Verso 3
-Si se apaga la esperanza  
-la volvemos a encender,  
-con tambores y guitarras,  
-y el calor de un amanecer.
+<p>
+La música sale de cada casa,<br>
+los mayores cuentan lo que pasa,<br>
+las risas llenan los callejones,<br>
+y los niños inventan canciones.
+</p>
 
-### Montuno
-Despierto está mi barrio,  
-despierto está mi son.  
-Con fuerza caminamos,  
-con alma y corazón.
+<p><strong>Puente:</strong><br>
+El barrio es un latido colectivo,<br>
+cada gesto es motivo de incentivo,<br>
+y aunque el tiempo pase sin parar,<br>
+mi barrio nunca dejará de vibrar.
+</p>
 
-### Cierre
-Mi barrio está despierto…  
-y no lo apaga nadie.
+<p><strong>Montuno:</strong><br>
+— ¿Quién se une a esta fiesta?<br>
+— Todos los que aman la vida y la siesta,<br>
+— ¿Y si la noche llega?<br>
+— Seguiremos despiertos hasta que amanezca.
+</p>
+</section>
 
----
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-## Información Comercial
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Medio-Alto (tema comunitario)  
-**Mercado Objetivo:** Proyectos barriales, organizaciones comunitarias  
-**Precio Licencia Básica:** $400 USD  
-**Regalías Sugeridas:** 3-5% por uso  
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-**Palabras Clave:** #Comunidad #Barrio #Unión #Timba #SonCubano
+</body>
+</html>
 
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
