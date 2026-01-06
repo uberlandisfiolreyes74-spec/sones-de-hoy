@@ -1,60 +1,61 @@
-# Inventar Que El Mundo
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inventar que el Mundo – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-207  
-**Género:** Son moderno / Fusión urbana  
-**Tema:** Creatividad, resiliencia, juventud  
-**Duración:** 4:20  
-**BPM:** 100  
-**Tonalidad:** Sol Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<header>
+    <h1>Inventar que el Mundo</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+Inventar que el mundo es nuestro hogar,<br>
+aunque las calles nos quieran alejar,<br>
+con cada paso y cada canción,<br>
+construimos un futuro con ilusión.
+</p>
 
-### Verso 1
-Cada día es un lienzo en blanco  
-para pintar lo que soñé,  
-aunque falten colores y tiempo,  
-mi música es mi fe.
+<p>
+La esperanza nos guía la mirada,<br>
+la melodía abraza la jornada,<br>
+y aunque el tiempo insista en cambiar,<br>
+seguimos soñando sin cesar.
+</p>
 
-### Verso 2
-Entre calles y colas largas  
-surge la idea más genial,  
-los problemas se convierten  
-en ritmo universal.
+<p><strong>Coro:</strong><br>
+Inventar que el mundo,<br>
+puede ser mejor,<br>
+con la música y el amor,<br>
+siempre habrá calor.
+</p>
 
-### Coro
-Inventar que el mundo  
-puede ser mejor,  
-con cada nota,  
-con cada canción.  
-Inventar que el mundo  
-puede sonreír,  
-y que el alma  
-nunca va a morir.
+<p><strong>Puente:</strong><br>
+No importa la distancia ni la pena,<br>
+el ritmo nos une y nos llena,<br>
+la ciudad vibra y la voz resuena,<br>
+porque inventar que el mundo es nuestra escena.
+</p>
+</section>
 
-### Montuno
-**Solista:** ¿Qué hacemos cuando falla el plan?  
-**Coro:** Lo reinventamos con son y tambor.  
-**Solista:** ¿Y si el miedo nos quiere parar?  
-**Coro:** Lo vencemos bailando con amor.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Cierre
-Inventar que el mundo…  
-es nuestra oportunidad de crear.  
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Muy alto (temática positiva y juvenil)  
-**Mercado Objetivo:** Jóvenes, plataformas de streaming, redes sociales, festivales  
-**Precio Licencia Básica:** $450 USD  
-**Regalías Sugeridas:** 3-5% por uso  
-
-**Palabras Clave:** #Creatividad #Juventud #Resiliencia #SonModerno #FusiónUrbana
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
