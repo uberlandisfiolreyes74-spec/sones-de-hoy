@@ -1,97 +1,76 @@
-# Malecón a Media Luz
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Malecón a Media Luz – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
 
-**ID:** SOH-201  
-**Género:** Bolero-Son / Fusión  
-**Tema:** Apagones, resiliencia, belleza en la oscuridad  
-**Duración:** 5:15  
-**BPM:** 70  
-**Tonalidad:** Re menor / Fa Mayor  
-**Estructura:** Intro - Estrofa 1 - Puente - Coro - Estrofa 2 - Coro - Montuno - Coda  
+<body>
 
-## Letra Completa
+<header>
+    <h1>Malecón a Media Luz</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-### Intro
-El sol se hunde en un manto de añil,  
-la ciudad espera, quieta, sin rumor...  
-y de pronto, un latigazo sutil,  
-todo se apaga, se borra el color.
+<section>
+<p>
+Camino lento sobre el malecón,<br>
+la brisa lleva recuerdos de pasión,<br>
+luces reflejadas en el agua clara,<br>
+y un corazón que a cada ola dispara.
+</p>
 
-### Estrofa 1
-Queda el perfil de los edificios grises  
-contra un cielo que empieza a estrellarse.  
-Y no son sirenas, ni ruiseses,  
-es la gente que empieza a asomarse.  
-A la ventana, al portal, al balcón,  
-con una vela, un quinqué, una fe.  
-La Habana se viste de ocasión  
-para ser, simplemente, lo que fue.
+<p>
+Las sombras bailan junto al mar,<br>
+susurrando secretos que no se deben contar,<br>
+los amantes se encuentran sin temor,<br>
+en el murmullo del viento y el clamor.
+</p>
 
-### Puente Poético
-Y el Malecón...  
-sin su collar de focas deslumbrantes,  
-recupera su vieja canción.  
-Es un gigante de espuma y piedra,  
-acariciado solo por la luna,  
-guardando secretos en su carrera.
+<p><strong>Coro:</strong><br>
+Malecón a media luz,<br>
+cobijo de sueños y juventud,<br>
+donde los pasos se cruzan sin razón,<br>
+y la música vibra en cada corazón.
+</p>
 
-### Coro
-¡Malecón a media luz!  
-Cuando se fue la corriente,  
-brilla más la piel latente  
-de esta ciudad que no se rinde nunca.  
-¡Malecón a media luz!  
-El mar sigue su compás,  
-y en la oscuridad verás  
-el corazón de la isla que palpita.
+<p>
+Los barcos pasan y nadie los mira,<br>
+el tiempo aquí parece que suspira,<br>
+cada piedra guarda una canción,<br>
+cada ola repite su vibración.
+</p>
 
-### Estrofa 2
-Un saxofón lejano busca un tono,  
-una risa de niños en la penumbra,  
-el murmullo de un sueño que oportuno  
-en la quietud más honda se alumbra.  
-Se comparte el café, la conversación,  
-la anécdota de un tiempo quizás mejor.  
-En la sombra, nace la complicidad,  
-la extraña libertad de lo imperfecto.
+<p><strong>Puente:</strong><br>
+Si alguien pregunta por este lugar,<br>
+dile que es donde aprendí a amar,<br>
+y aunque la vida siga su andar,<br>
+el malecón siempre nos volverá a encontrar.
+</p>
 
-### Coro
-¡Malecón a media luz!  
-Cuando se fue la corriente,  
-brilla más la piel latente  
-de esta ciudad que no se rinde nunca.  
-¡Malecón a media luz!  
-El mar sigue su compás,  
-y en la oscuridad verás  
-el corazón de la isla que palpita.
+<p><strong>Montuno:</strong><br>
+— ¿Quién se queda a ver la luna?<br>
+— Todos los que sienten que la noche es oportuna,<br>
+— ¿Y qué hacemos con la madrugada?<br>
+— Seguimos soñando hasta que salga el alba.
+</p>
+</section>
 
-### Montuno
-**Coro (Cantante):** Y dime, vecino, ¿qué ves tú ahí?  
-**Respuesta (Coro):** ¡Veo un futuro que aún está por vivir!  
-**Cantante:** Y en esa marea, ¿qué escuchas tú?  
-**Coro:** ¡Escucho el tambor de mi abuelo, Changó!  
-**Cantante:** Y en la oscuridad, ¿qué encuentras al fin?  
-**Coro:** ¡Encuentro la luz que llevo por dentro, ay, sí!
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Coda
-Y cuando, al fin, regrese la electricidad,  
-y se enciendan de nuevo los letreros de neón,  
-alguien, desde su balcón, con nostalgia,  
-recordará este Malecón a media luz...  
-y sonreirá.
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐⭐ (5/5)  
-**Potencial Viral:** Alto (poético y visual)  
-**Mercado Objetivo:** Cine, documentales, artistas de fusión  
-**Precio Licencia Básica:** $525 USD  
-**Regalías Sugeridas:** 5-7% por uso  
-
-**Palabras Clave:** #Malecón #Apagones #Belleza #BoleroSon #Resiliencia
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
