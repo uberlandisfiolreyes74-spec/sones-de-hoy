@@ -15,7 +15,6 @@
 </header>
 
 <section>
-
 <p>
 Se fue con la luna a medias,<br>
 con la maleta sin cerrar,<br>
@@ -57,7 +56,12 @@ ni los mapas ni las banderas.
 — ¿Y qué deja al partir?<br>
 — ¡Una isla esperando volverlo a ver!
 </p>
+</section>
 
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
 </section>
 
 <p style="text-align:center; margin-top:40px;">
@@ -65,7 +69,7 @@ ni los mapas ni las banderas.
 </p>
 
 <footer>
-    <p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
 </footer>
 
 </body>
