@@ -1,58 +1,61 @@
-# Wifi y Lágrimas
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Wifi y Lágrimas – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-205  
-**Género:** Son Urbano / Fusión Digital  
-**Tema:** Conectividad, emociones modernas, resiliencia  
-**Duración:** 4:20  
-**BPM:** 90  
-**Tonalidad:** La menor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<header>
+    <h1>Wifi y Lágrimas</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+Conexiones que cruzan la ciudad,<br>
+pantallas llenas de soledad,<br>
+mensajes que llegan tarde,<br>
+y lágrimas que nadie sabe.
+</p>
 
-### Verso 1
-Se apagó la señal del barrio  
-y las calles lloraban en silencio,  
-los mensajes que no llegan  
-se pierden en el tiempo.
+<p>
+Risas que se pierden en la red,<br>
+y susurros que nadie ve,<br>
+el corazón navega entre señales,<br>
+buscando abrazos virtuales.
+</p>
 
-### Verso 2
-Pero un clic rompe la distancia  
-y aparece tu sonrisa,  
-aunque el mundo esté callado,  
-mi corazón no se avisa.
+<p><strong>Coro:</strong><br>
+Wifi y lágrimas,<br>
+un amor digital,<br>
+pero el alma grita,<br>
+por contacto real.
+</p>
 
-### Coro
-Wifi y lágrimas,  
-conectados en la tormenta.  
-Aunque todo falle,  
-la esperanza no se fragmenta.
+<p><strong>Puente:</strong><br>
+Aunque la señal se interrumpa,<br>
+y la noche se oscurezca,<br>
+la esperanza permanece,<br>
+y el sentimiento no cesa.
+</p>
+</section>
 
-### Montuno
-**Solista:** ¿Y si la red se cae?  
-**Coro:** Seguimos buscando el enlace.  
-**Solista:** ¿Y si la noche es larga?  
-**Coro:** Bailamos hasta que amanezca.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Cierre
-Entre bits y emociones,  
-seguimos sonando juntos,  
-Wifi y lágrimas,  
-un son moderno y profundo.
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Alto (tema juvenil y contemporáneo)  
-**Mercado Objetivo:** Jóvenes, redes sociales, plataformas de streaming  
-**Precio Licencia Básica:** $400 USD  
-**Regalías Sugeridas:** 3-5% por uso  
-
-**Palabras Clave:** #Tecnología #Emociones #SonUrbano #Conectividad #Cuba
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
