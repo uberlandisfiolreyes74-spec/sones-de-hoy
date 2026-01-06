@@ -1,58 +1,61 @@
-# Puentes de Papel
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Puentes de Papel – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-206  
-**Género:** Son / Timba suave  
-**Tema:** Comunicación, sueños, esperanza  
-**Duración:** 4:00  
-**BPM:** 88  
-**Tonalidad:** Do Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<header>
+    <h1>Puentes de Papel</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+Construimos puentes de papel,<br>
+sobre ríos de sueños que se van,<br>
+las palabras vuelan y no caen,<br>
+y los recuerdos vuelven a brotar.
+</p>
 
-### Verso 1
-Construyo puentes de papel  
-para llegar a tu corazón,  
-aunque el viento los derribe,  
-mi fe sigue en canción.
+<p>
+Cada carta, cada gesto,<br>
+es un hilo que nos mantiene cerca,<br>
+aunque el tiempo intente separarnos,<br>
+la música nos vuelve a encontrar.
+</p>
 
-### Verso 2
-Cartas, mensajes y sueños  
-viajan por la imaginación,  
-cada palabra es un abrazo  
-y cada gesto es emoción.
+<p><strong>Coro:</strong><br>
+Puentes de papel,<br>
+construidos con emoción,<br>
+aunque frágiles parezcan,<br>
+llevan fuerza y pasión.
+</p>
 
-### Coro
-Puentes de papel,  
-pero de fuerza real.  
-Aunque se rompan,  
-el son los volverá a armar.
+<p><strong>Puente:</strong><br>
+Que el viento no rompa las letras,<br>
+ni la distancia nuestros lazos,<br>
+cada puente nos recuerda,<br>
+que seguimos el mismo paso.
+</p>
+</section>
 
-### Montuno
-**Solista:** ¿Y si se caen otra vez?  
-**Coro:** Los levantamos con el son.  
-**Solista:** ¿Y si la distancia pesa?  
-**Coro:** La música nos acerca más.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Cierre
-Puentes de papel,  
-que llevan vida y canción.  
-La esperanza nunca se rompe,  
-vive en cada rincón.
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Alto (temática inspiradora)  
-**Mercado Objetivo:** Jóvenes, eventos culturales, plataformas de streaming  
-**Precio Licencia Básica:** $400 USD  
-**Regalías Sugeridas:** 3-5% por uso  
-
-**Palabras Clave:** #PuentesDePapel #SonCubano #Esperanza #Comunicación #Cultura
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
