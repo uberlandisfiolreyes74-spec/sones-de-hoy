@@ -1,57 +1,61 @@
-# Carta Desde El Malecón
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Carta Desde el Malecón – Sones de Hoy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
 
-**ID:** SOH-204  
-**Género:** Son Cubano / Bolero  
-**Tema:** Nostalgia, comunicación a distancia, esperanza  
-**Duración:** 4:50  
-**BPM:** 78  
-**Tonalidad:** Do Mayor  
-**Estructura:** Verso 1 - Verso 2 - Coro - Montuno - Cierre  
+<header>
+    <h1>Carta Desde el Malecón</h1>
+    <p>Sones de Hoy · Volumen 2</p>
+</header>
 
-## Letra Completa
+<section>
+<p>
+Te escribo desde el Malecón,<br>
+con la brisa y el corazón,<br>
+las olas me cuentan tu historia,<br>
+y la ciudad guarda memoria.
+</p>
 
-### Verso 1
-Desde el Malecón te escribo  
-con la brisa y el mar de testigo,  
-mis palabras viajan lejos  
-con la ilusión de un abrigo.
+<p>
+Las luces se reflejan en la mar,<br>
+el tiempo parece descansar,<br>
+y cada palabra que te envío,<br>
+lleva un pedazo de mí conmigo.
+</p>
 
-### Verso 2
-Las olas cuentan historias  
-de amores y de espera,  
-y cada letra que te mando  
-lleva mi alma entera.
+<p><strong>Coro:</strong><br>
+Desde el Malecón te pienso,<br>
+cada noche y cada día,<br>
+la distancia no rompe el lazo,<br>
+que une nuestras melodías.
+</p>
 
-### Coro
-Carta desde el Malecón,  
-te abrazo con el viento.  
-Aunque estés lejos, mi corazón  
-siente lo que siento.
+<p><strong>Puente:</strong><br>
+El sol cae sobre el horizonte,<br>
+los barcos se van y vienen,<br>
+pero la carta guarda el instante,<br>
+de un amor que nunca se detiene.
+</p>
+</section>
 
-### Montuno
-**Solista:** ¿Qué se siente allá, compay?  
-**Coro:** La distancia no nos rompe jamás.  
-**Solista:** ¿Y el Malecón, cómo está?  
-**Coro:** Siempre vivo, siempre nos ve pasar.  
+<section>
+<h3>Detalles comerciales</h3>
+<p>Descarga completa del tema: $12 USD</p>
+<p>Pago vía PayPal o criptomonedas</p>
+</section>
 
-### Cierre
-Y cuando vuelva la luz del día  
-te leeré con alegría  
-esta carta desde el Malecón.
+<p style="text-align:center; margin-top:40px;">
+<a href="../index.html">← Volver al álbum</a>
+</p>
 
----
+<footer>
+<p>© 2025 Uberlandis Fiol Reyes. Todos los derechos reservados.</p>
+</footer>
 
-## Información Comercial
-
-**Valoración:** ⭐⭐⭐⭐ (4/5)  
-**Potencial Viral:** Medio-Alto (poético y nostálgico)  
-**Mercado Objetivo:** Radio, plataformas digitales, documentales sobre Cuba  
-**Precio Licencia Básica:** $425 USD  
-**Regalías Sugeridas:** 3-5% por uso  
-
-**Palabras Clave:** #Malecón #Nostalgia #SonCubano #Bolero #Cuba
-
----
-
-© 2024 Uberlandis Fiol Reyes. Todos los derechos reservados.  
-Para uso comercial, contactar al autor.
+</body>
+</html>
